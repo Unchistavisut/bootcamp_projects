@@ -27,6 +27,6 @@ We learn 10 sprint during 4 month program.
 
 
 - **`Essential Python for Data Analyst`**
-     - 
+- 
 
 - **`Dashboard`**
