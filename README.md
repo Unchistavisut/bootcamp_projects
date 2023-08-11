@@ -26,6 +26,9 @@ We learn 10 sprint during 4 month program.
 - **`Intro to 'Classical' Machine Learning`**
 
 
+- **`Essential Python`**
+
+
 - **`Essential Python for Data Analyst`**
 
 
