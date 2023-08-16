@@ -5,7 +5,14 @@ Data science bootcamp with unchista
 We learn 10 sprint during 4 month program.
 
 - **`Spreadsheets`**
+     - Dynamic Query :
+       https://docs.google.com/spreadsheets/d/1MuJEa6mITBt4wdcXOCIwGh3vDcv1q-zmig5KDH_VG6g/edit?pli=1#gid=1981431105
 
+     - Convert TH to EN Date :
+       https://docs.google.com/spreadsheets/d/1MuJEa6mITBt4wdcXOCIwGh3vDcv1q-zmig5KDH_VG6g/edit?pli=1#gid=1656509133
+
+     - ID Card Parser :
+       https://docs.google.com/spreadsheets/d/1MuJEa6mITBt4wdcXOCIwGh3vDcv1q-zmig5KDH_VG6g/edit?pli=1#gid=1656509133  
 
 - **`SQL Database`** 
      - Restuarant Owener 🍕🥩 : Create and analyze restuarant data 🍕🍝 by using SQL     
@@ -34,8 +41,8 @@ We learn 10 sprint during 4 month program.
        https://colab.research.google.com/drive/1UVffGoU0_6DeDHCyH38JVuFoJ6cnxyPz?usp=sharing
 
 - **`Essential Python for Data Analyst`**
-     - :
-       https://datalore.jetbrains.com/notebook/Lp2MQmqMZOTNYqKgd7WMmV/AfaUb7WwtDAWFqQNYtow8k
+     - Analyzing Sales Data 🧑🏻‍💼📊 : explore and analyze sales data by using `Pandas Foundation`
+       https://datalore.jetbrains.com/notebook/JGlqCFehH7OA78nk9XLljK/VjXzYFRJtQ2JTtBkMVSaNa
 
 - **`Dashboard`**
 
